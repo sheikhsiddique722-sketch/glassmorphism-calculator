@@ -31,4 +31,4 @@ This calculator works smoothly on:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/glassmorphism-calculator.git
+ https://sheikhsiddique722-sketch.github.io/glassmorphism-calculator/
