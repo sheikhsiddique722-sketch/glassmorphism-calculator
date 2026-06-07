@@ -2,7 +2,7 @@
 
 A modern and responsive calculator built using HTML, CSS, and JavaScript with a beautiful glassmorphism UI design.
 
-## ✨ Features
+## ✨ Features  
  
 - Modern Glassmorphism Design
 - Responsive Layout
