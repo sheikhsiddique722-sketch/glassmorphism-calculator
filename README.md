@@ -3,7 +3,7 @@
 A modern and fully responsive calculator built using **HTML, CSS, and JavaScript**, featuring a beautiful **Glassmorphism UI**. The project combines clean functionality with a sleek frosted-glass interface to deliver an elegant and interactive user experience.
 
 This project demonstrates how modern frontend technologies can be used to build a fully functional calculator while implementing contemporary UI design principles. 
-
+ 
 ---
 
 ## 🌐 Live Demo 
