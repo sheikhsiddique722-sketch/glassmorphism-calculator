@@ -4,7 +4,7 @@ A modern and fully responsive calculator built using **HTML, CSS, and JavaScript
 
 This project demonstrates how modern frontend technologies can be used to build a fully functional calculator while implementing contemporary UI design principles. 
  
----
+--- 
 
 ## 🌐 Live Demo 
 
