@@ -9,7 +9,7 @@ This project demonstrates how modern frontend technologies can be used to build 
 ## 🌐 Live Demo 
  
 **Website:**  
-https://sheikhsiddique722-sketch.github.io/glassmorphism-calculator/
+https://sheikhsiddique722-sketch.github.io/glassmorphism-calculator/ 
 
 ---
 
